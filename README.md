@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Call me what you want - my identity is not dependent on anything you can say or do.
-- ⚡ Fun fact: Crack open a walnut and observe something resembling the human brain.  No wonder the ancient Greeks' word karyon means head.
+- ⚡ Fun fact: Crack open a walnut and what you find somewhat resembles the human brain.  No wonder the ancient Greeks' word for walnut, karyon, means head.
 
 <!---
 walnutexplosion/walnutexplosion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
